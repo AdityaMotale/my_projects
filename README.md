@@ -35,8 +35,9 @@ This is the list of projects I have built over the years. Starting from recent,
 TurboFox is a in memory `key-value` store / database built in rust. It uses a WAL (Write Ahead Log) to build db in memory by rerunning
 operations, a memoryStore for faster queries build using a _skip-list_.
 
-So far I've made few prototypes, but still not found my way in. Currently I don't have anything to show for it, its under heavy
-development 🏗️. Until then, stay tuned 🤞!
+So far I've made few prototypes, but still not found my way in. For now its under heavy development 🏗️. Until then, stay tuned 🤞!
+
+In [this](https://github.com/AdityaMotale/turbofox) repo you can have a look at one of the prototypes, I've built.
 
 ### Ecko 🕸️
 
