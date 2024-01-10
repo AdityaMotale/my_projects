@@ -10,10 +10,9 @@ About four years ago, in the early phases of lockdown, I hooked up with technolo
 Building things gives me the satisfaction to solve problems, which is also the purpose I was searching for.
 
 With the help of this burning desire to build things, I've built many things in my journey, fortunately or unfortunately.
-None of them became successful; some things I've just built for fun. But most importantly, I got to learn from each
+None of them became successful; some things I've also just built for fun. But most importantly, I got to learn from each
 of my failures, and I am glad that I made those mistakes. With the help of these mistakes, I was able to build myself up to be
 a person I am today. Passionate, I will work till 4:30 AM if I enjoy the work, and I will procrastinate for a lifetime if I do not.
-what I am doing.
 
 Fallowing is the curated list of projects I've build and failures I've faced throughout my journey,
 
@@ -153,7 +152,7 @@ The only things I have to show for are the designs, many of them. [Here](https:/
 
 With this major projects, I've build many side projects as Mini Projects, for my academics. Have a look,
 
-- _WallPix_, A wallpaper app built with Flutter & Unsplash API, [designs](https://www.figma.com/community/file/1096313319192183988/wallpix)
+- [WallPix](https://www.figma.com/community/file/1096313319192183988/wallpix), A wallpaper app built with Flutter & Unsplash API
 - [OnFootage](https://www.figma.com/file/ph2sX1kU5UUP7K5wWNd2Kg/OnFootage?type=design&node-id=1%3A3&mode=design&t=lMEOlPLK8sOlFhpP-1), A films review web app built with React & Firestore
 - [ClassicLine](https://www.figma.com/file/ZD34yYjInnO3XijMlSk4qy/classicline?type=design&node-id=0%3A1&mode=design&t=06EE4M4wM78RO7Y1-1), A book review web app build with React & Firestore
 - [AtLeave](https://www.figma.com/file/3LEked2UV6NUQ9gRMOP2nj/AtLeave?type=design&node-id=14%3A2&mode=design&t=3XTX4OC3DClB9lRv-1), A travel consultation booking web app with React & Firestore
